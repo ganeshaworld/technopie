@@ -1,0 +1,11 @@
+{
+  "name": "technopie",
+  "version": "1.0.0",
+  "description": "Technopie - Data Analytics & AI Automation Website",
+  "scripts": {
+    "start": "NODE_ENV=production node index.cjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
